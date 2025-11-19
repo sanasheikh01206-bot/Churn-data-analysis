@@ -1,35 +1,56 @@
-Customer Churn Analysis – Project Overview
+**Customer Churn Analysis — Project Overview**
 
-This project explores customer churn patterns using a combination of demographic, subscription, and usage-related features. The goal is to understand what factors contribute most to customer churn and to highlight actionable insights through clear visualizations.
+This project analyzes customer churn patterns using demographic, subscription, and usage-related features. The objective is to identify the key factors influencing churn and present actionable insights through clear, data-driven visualizations.
 
-Churn Distribution
-A breakdown of churned vs. non-churned customers to understand the overall churn rate.
+Key Analysis Components
+1. Churn Distribution
 
-Gender-wise Churn Comparison
-Examines churn behavior across male and female customers to identify any gender-based patterns.
+Provides an overall view of churned vs. non-churned customers, helping establish the baseline churn rate.
 
-Senior Citizen Impact
-Analyzes whether senior citizens are more likely to churn compared to younger customers.
+2. Gender-wise Churn Comparison
 
-Payment Method Influence
-Studies churn rates across different payment methods such as credit card, bank transfer, and electronic checks.
+Evaluates churn patterns between male and female customers to identify any noticeable differences.
 
-Contract Type vs Churn
-Shows how churn varies between month-to-month, one-year, and two-year contracts.
-Month-to-month customers typically show much higher churn, making contract type one of the strongest indicators.
+3. Senior Citizen Impact
 
-Tenure Distribution
-Highlights how long customers stay before they churn, helping identify early-risk segments.
+Assesses whether senior citizens are more likely to churn compared to younger customers.
+
+4. Payment Method Influence
+
+Compares churn rates across payment methods such as Credit Card, Bank Transfer, and Electronic Check.
+
+5. Contract Type vs. Churn
+
+Visualizes churn differences among
+
+Month-to-month
+
+One-year
+
+Two-year
+
+Month-to-month customers show the highest churn, making contract type one of the strongest indicators.
+
+6. Tenure Distribution
+
+Highlights how long customers stay before they churn, helping identify early-risk customer segments.
 
 Tools Used
+
 Python
-Pandas for data handling
-Matplotlib & Seaborn for visualizations
-Jupyter Notebook for analysis workflow
+
+Pandas – data cleaning & manipulation
+
+Matplotlib & Seaborn – visualizations
+
+Jupyter Notebook – analysis workflow
 
 Project Purpose
 
-This project demonstrates practical data analysis and visualization skills, showcasing the ability to:
+This project showcases the ability to:
+
 Clean and explore real-world datasets
-Build meaningful plots for business insights
-Communicate results clearly and visually
+
+Build meaningful visualizations for business insights
+
+Interpret and communicate findings clearly
