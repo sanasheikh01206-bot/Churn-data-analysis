@@ -36,17 +36,17 @@ Month-to-month customers show the highest churn, making contract type one of the
 
 Highlights how long customers stay before they churn, helping identify early-risk customer segments.
 
-Tools Used
+**Tools Used**
 
-Python
+***Python***
 
-Pandas – data cleaning & manipulation
+***Pandas*** – data cleaning & manipulation
 
-Matplotlib & Seaborn – visualizations
+***Matplotlib & Seaborn*** – visualizations
 
-Jupyter Notebook – analysis workflow
+***Jupyter Notebook*** – analysis workflow
 
-Project Purpose
+**Project Purpose**
 
 This project showcases the ability to:
 
