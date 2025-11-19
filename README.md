@@ -3,6 +3,7 @@
 This project analyzes customer churn patterns using demographic, subscription, and usage-related features. The objective is to identify the key factors influencing churn and present actionable insights through clear, data-driven visualizations.
 
 **Key Analysis Components**
+
 ***1. Churn Distribution***
 
 Provides an overall view of churned vs. non-churned customers, helping establish the baseline churn rate.
