@@ -48,7 +48,7 @@ Highlights how long customers stay before they churn, helping identify early-ris
 
 **Project Purpose**
 
-This project showcases the ability to:
+This project showcases the ability to: >
 
 Clean and explore real-world datasets
 
